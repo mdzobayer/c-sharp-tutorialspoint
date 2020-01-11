@@ -1,0 +1,11 @@
+/home/zobayer/C#/hwapp/bin/Debug/netcoreapp3.1/hwapp
+/home/zobayer/C#/hwapp/bin/Debug/netcoreapp3.1/hwapp.deps.json
+/home/zobayer/C#/hwapp/bin/Debug/netcoreapp3.1/hwapp.runtimeconfig.json
+/home/zobayer/C#/hwapp/bin/Debug/netcoreapp3.1/hwapp.runtimeconfig.dev.json
+/home/zobayer/C#/hwapp/bin/Debug/netcoreapp3.1/hwapp.dll
+/home/zobayer/C#/hwapp/bin/Debug/netcoreapp3.1/hwapp.pdb
+/home/zobayer/C#/hwapp/obj/Debug/netcoreapp3.1/hwapp.csprojAssemblyReference.cache
+/home/zobayer/C#/hwapp/obj/Debug/netcoreapp3.1/hwapp.AssemblyInfoInputs.cache
+/home/zobayer/C#/hwapp/obj/Debug/netcoreapp3.1/hwapp.AssemblyInfo.cs
+/home/zobayer/C#/hwapp/obj/Debug/netcoreapp3.1/hwapp.dll
+/home/zobayer/C#/hwapp/obj/Debug/netcoreapp3.1/hwapp.pdb
