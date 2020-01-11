@@ -1,0 +1,11 @@
+/home/zobayer/C#/basic_syntax/obj/Debug/netcoreapp3.1/basic_syntax.csprojAssemblyReference.cache
+/home/zobayer/C#/basic_syntax/obj/Debug/netcoreapp3.1/basic_syntax.AssemblyInfoInputs.cache
+/home/zobayer/C#/basic_syntax/obj/Debug/netcoreapp3.1/basic_syntax.AssemblyInfo.cs
+/home/zobayer/C#/basic_syntax/bin/Debug/netcoreapp3.1/basic_syntax
+/home/zobayer/C#/basic_syntax/bin/Debug/netcoreapp3.1/basic_syntax.deps.json
+/home/zobayer/C#/basic_syntax/bin/Debug/netcoreapp3.1/basic_syntax.runtimeconfig.json
+/home/zobayer/C#/basic_syntax/bin/Debug/netcoreapp3.1/basic_syntax.runtimeconfig.dev.json
+/home/zobayer/C#/basic_syntax/bin/Debug/netcoreapp3.1/basic_syntax.dll
+/home/zobayer/C#/basic_syntax/bin/Debug/netcoreapp3.1/basic_syntax.pdb
+/home/zobayer/C#/basic_syntax/obj/Debug/netcoreapp3.1/basic_syntax.dll
+/home/zobayer/C#/basic_syntax/obj/Debug/netcoreapp3.1/basic_syntax.pdb

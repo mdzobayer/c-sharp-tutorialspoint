@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zobayer/C#/basic_syntax/basic_syntax.csproj": {}
+  },
+  "projects": {
+    "/home/zobayer/C#/basic_syntax/basic_syntax.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zobayer/C#/basic_syntax/basic_syntax.csproj",
+        "projectName": "basic_syntax",
+        "projectPath": "/home/zobayer/C#/basic_syntax/basic_syntax.csproj",
+        "packagesPath": "/home/zobayer/.nuget/packages/",
+        "outputPath": "/home/zobayer/C#/basic_syntax/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zobayer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
