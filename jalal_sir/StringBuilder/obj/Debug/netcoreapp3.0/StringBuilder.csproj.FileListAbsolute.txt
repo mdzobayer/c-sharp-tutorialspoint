@@ -1,0 +1,11 @@
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.csprojAssemblyReference.cache
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.AssemblyInfo.cs
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.exe
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.deps.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.runtimeconfig.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.runtimeconfig.dev.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.dll
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.pdb
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.dll
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.pdb
