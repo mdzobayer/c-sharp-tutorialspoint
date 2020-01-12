@@ -1,0 +1,11 @@
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\bin\Debug\netcoreapp3.0\lambda_expression.exe
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\bin\Debug\netcoreapp3.0\lambda_expression.deps.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\bin\Debug\netcoreapp3.0\lambda_expression.runtimeconfig.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\bin\Debug\netcoreapp3.0\lambda_expression.runtimeconfig.dev.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\bin\Debug\netcoreapp3.0\lambda_expression.dll
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\bin\Debug\netcoreapp3.0\lambda_expression.pdb
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\obj\Debug\netcoreapp3.0\lambda_expression.csprojAssemblyReference.cache
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\obj\Debug\netcoreapp3.0\lambda_expression.AssemblyInfoInputs.cache
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\obj\Debug\netcoreapp3.0\lambda_expression.AssemblyInfo.cs
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\obj\Debug\netcoreapp3.0\lambda_expression.dll
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\lambda_expression\obj\Debug\netcoreapp3.0\lambda_expression.pdb
