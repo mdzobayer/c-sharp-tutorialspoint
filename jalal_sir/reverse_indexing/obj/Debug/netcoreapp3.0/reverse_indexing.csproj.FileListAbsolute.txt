@@ -1,0 +1,11 @@
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\obj\Debug\netcoreapp3.0\reverse_indexing.csprojAssemblyReference.cache
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\obj\Debug\netcoreapp3.0\reverse_indexing.AssemblyInfoInputs.cache
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\obj\Debug\netcoreapp3.0\reverse_indexing.AssemblyInfo.cs
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\bin\Debug\netcoreapp3.0\reverse_indexing.exe
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\bin\Debug\netcoreapp3.0\reverse_indexing.deps.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\bin\Debug\netcoreapp3.0\reverse_indexing.runtimeconfig.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\bin\Debug\netcoreapp3.0\reverse_indexing.runtimeconfig.dev.json
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\bin\Debug\netcoreapp3.0\reverse_indexing.dll
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\bin\Debug\netcoreapp3.0\reverse_indexing.pdb
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\obj\Debug\netcoreapp3.0\reverse_indexing.dll
+C:\Users\md.zobayer\Desktop\c-sharp-tutorialspoint\jalal_sir\reverse_indexing\obj\Debug\netcoreapp3.0\reverse_indexing.pdb

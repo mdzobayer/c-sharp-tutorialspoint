@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "reverse_indexing/1.0.0": {
+        "runtime": {
+          "reverse_indexing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reverse_indexing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
